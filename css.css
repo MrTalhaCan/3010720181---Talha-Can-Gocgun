@@ -1,0 +1,83 @@
+*{
+	margin: 0;
+	box-sizing: content-box;
+}
+
+body{
+	font-family: tahoma;
+}
+
+#cvid{
+	margin-top: 3%;
+	background-color: #F77A60;
+	text-align: center;
+}
+
+#tablediv{
+	font-family: arial;
+	width: 50%;
+	margin-top: 1.5%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #2CB8F9;
+	border-radius: 5px;
+	
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td{
+	
+	padding: 10px;
+	padding-right: 30px;
+}
+
+#tanitimdiv{
+	width: 50%;
+	background-color: #F77A60;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	text-align: justify;
+	color: #F7F5F4;
+	
+}
+
+#hobbiesandabilities{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}
+
+#hobbies{
+	width: 45%;
+	float: left;
+	text-align: center;
+}
+
+li{
+	list-style: none;
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+}
+
+#abilities{
+	width: 50%;
+	float: right;
+	text-align: center;
+}
+
+button{
+	border: none;
+	background: none;
+	font-weight: bold;
+	font-size: 17px;
+}
