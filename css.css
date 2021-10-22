@@ -81,3 +81,15 @@ button{
 	font-weight: bold;
 	font-size: 17px;
 }
+
+a{
+	text-decoration: none;
+}
+
+a:link{
+	color: black;
+}
+
+a:visited{
+	color: black;
+}
